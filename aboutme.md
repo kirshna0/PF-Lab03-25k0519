@@ -1,3 +1,3 @@
-Nmae = Kirshna Kumari
-Degree program = BSCS
+Name = Kirshna Kumari\
+Degree program = BSCS\
 Hobby = Sketching
